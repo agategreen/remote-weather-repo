@@ -1,0 +1,14 @@
+
+.center-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    white-space: pre-line;
+  }
+  
+  
+  .center-heading {
+    text-align: center;
+  }
+  
